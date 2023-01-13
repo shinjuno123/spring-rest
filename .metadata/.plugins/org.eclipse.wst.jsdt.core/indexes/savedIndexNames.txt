@@ -1,0 +1,9 @@
+INDEX VERSION 1.4+C:\Users\ASUS\OneDrive\바탕 화면\JAVALEARNINGCOLLECTION\SpringRest\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+716432529.index
+2537958326.index
+1329809618.index
+3464423058.index
+1592005408.index
+3314514721.index
+3051059511.index
+2741010517.index
